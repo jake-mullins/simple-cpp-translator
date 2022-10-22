@@ -14,3 +14,9 @@ Basic classes member variables using ```has a``` in the following format
 ```class Cell has a string called value```
 
 I don't expect this to be used in any other context except for learning.
+
+### Todo
+- [ ] design FSA
+- [ ] implement FSA
+- [ ] implement parsing
+- [ ] make dinner
